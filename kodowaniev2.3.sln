@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kodowaniev2.3", "kodowaniev2.3\kodowaniev2.3.csproj", "{67CE93FD-E3AB-47A2-BF76-9F66DE996866}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67CE93FD-E3AB-47A2-BF76-9F66DE996866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CE93FD-E3AB-47A2-BF76-9F66DE996866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CE93FD-E3AB-47A2-BF76-9F66DE996866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CE93FD-E3AB-47A2-BF76-9F66DE996866}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2561D37E-5802-489E-8A25-B8924111A985}
+	EndGlobalSection
+EndGlobal
